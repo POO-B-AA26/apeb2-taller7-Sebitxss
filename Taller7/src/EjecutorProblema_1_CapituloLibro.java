@@ -52,7 +52,7 @@ class Seccion {
 
 class Capitulo extends componenteSeccion {
 
-    public int cantSecciones;
+    public int cantSecciones; 
     public Seccion[] secciones;
 
     public Capitulo(int numero, String titulo) {
@@ -168,4 +168,12 @@ public class EjecutorProblema_1_CapituloLibro {
         capitulo.mostrar();
     }
 }
+/***
+ * run:
+CAPÍTULO 1: Introducción al español
+Sección: Origen del español
+   - Párrafo
+   - Figura
 
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */
