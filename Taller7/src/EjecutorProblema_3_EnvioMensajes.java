@@ -117,3 +117,16 @@ public class EjecutorProblema_3_EnvioMensajes {
         mms1.verMSM();
     }
 }
+/***
+ * run:
+(SMS) Enviado de 
+ para --SMS--
+MSM de... 
+Para... 
+Mensaje... Hola, que tal?
+(MMS) Enviando de  para --MMS--
+MSM de... 
+Para... 
+Imagen imagen1.jpg
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */
