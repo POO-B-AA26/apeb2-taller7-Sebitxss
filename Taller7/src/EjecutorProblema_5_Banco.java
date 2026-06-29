@@ -129,3 +129,19 @@ public class EjecutorProblema_5_Banco {
 
     }
 }
+/***
+ * run:
+Deposito de $ 500.0
+Retiro de $ 700.0
+CuentaCheques{}Cuenta{numCuenta=2202483920393, nomCliente=Juan Perez, balance=-200.0}
+Deposito de $ 500.0
+Retiro de $200.0 realizado.
+ERROR! no hay suficiente saldo. Balance actual: $300.0
+Interes = 30.0 sumado al balance
+CuentaAhorros{Cuenta{numCuenta=2204949334, nomCliente=Lupe Loyola, balance=330.0}tasaInteres=10.0%}
+Deposito de $ 1200.0
+Retiro de $ 1500.0
+Interes Platino (10%) $-30.0
+CuentaPlatino{Cuenta{numCuenta=2204493938495, nomCliente=Carlos Vaca, balance=-330.0}tasaInteres=0.1}
+BUILD SUCCESSFUL (total time: 0 seconds)
+ */
